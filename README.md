@@ -38,6 +38,7 @@ Después de multiples jugadas y reinicios de tablero.
 ## Botónes de acción
 4. EJECUTAR para llamar al algoritmo A*.
 5. REINICIAR si quiere borrar todos los objetos que se encuentren en el tablero.
+6. PARAR para detener el trazado del camino (este botón no funciona).
 
 # Créditos
 A Jakob Fischer por la letra.
