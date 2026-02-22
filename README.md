@@ -1,8 +1,8 @@
 # P4th F¡nd잉
 
 Proyecto final para la clase de Laboratorio de Programación Creativa con Processing de la Licenciatura en TICs de la ENES Morelia del semestre 2022-1.
-Profesor: Lic. Paulo Jacobo Alonso León
-Alumna: Angélica Nayeli Rivas Bedolla.
+* Profesor: Lic. Paulo Jacobo Alonso León
+* Alumna: Angélica Nayeli Rivas Bedolla.
 
 P4th F¡nd잉 es un juego averiado que evoca a la nostalgia por los juegos retro de computadora. Consta de 4 archivos de extensión PDE, de 9 imágenes prediseñadas de extensión PNG.
 
